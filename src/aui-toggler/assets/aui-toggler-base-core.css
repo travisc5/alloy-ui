@@ -3,5 +3,5 @@
 }
 .toggler-content-wrapper {
     overflow: hidden;
-    position: relative;
+    position: static;
 }
